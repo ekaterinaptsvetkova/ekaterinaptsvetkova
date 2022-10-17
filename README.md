@@ -27,7 +27,7 @@ In the past, I've used GitHub as a collaborative tool to complete school work wi
 
 [![Some Analytics](http://github-readme-streak-stats.herokuapp.com?user=ekaterinaptsvetkova&theme=light)](https://git.io/streak-stats)
 
-[Here](https://github.com/ekaterinaptsvetkova/tsv_proj_prev) is a preview of one of the coursework projects I completed, an exerpt of my dissertation which uses inferential statistics to compare household spending patterns of different EU countries and evaluates the predictive power of several ML models in relation to forecasting GDP based on spending. 
+[Here](https://github.com/ekaterinaptsvetkova/pyth_proj_ts_edu/blob/main/src/edu_proj_notebook.ipynb) is a short example of data wrangling and initial exploratory data analysis on education data for the EU. 
 
 More projects to come :) 
 
